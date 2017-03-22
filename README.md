@@ -1,2 +1,6 @@
 # hello-world
 The GIT Hello World Tutorial
+
+The tutorial instigated me to write about myself, and I was reluctant to do that, but here it goes: I am currently doing nothing but learning GIT (which is good, I think) and I would like to get a job. :P So there...
+
+BTW, I haven't tasted any tacos in the moon...
